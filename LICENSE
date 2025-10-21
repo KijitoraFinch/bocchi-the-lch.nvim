@@ -1,0 +1,13 @@
+This project is dual-licensed under either of the following, at your option:
+
+1. The MIT License (see LICENSE-MIT)
+2. The Yamada Ryo Riceware License (see LICENSE-RICEWARE)
+
+You may choose either license to govern your use of this software.
+
+SPDX-License-Identifier: MIT OR LicenseRef-Yamada-Ryo-Riceware
+
+LicenseRef-Yamada-Ryo-Riceware:
+    A permissive license based on the MIT License with additional "Riceware" terms,
+    as described in LICENSE-RICEWARE.
+
